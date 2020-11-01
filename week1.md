@@ -12,6 +12,7 @@ Yumo Luo 014810383
 - login shell:
 First ssh to the melkki.cs.helsinki.fi server: ```ssh melkki.cs.helsinki.fi```.
 Then running ```ls```. The printed directories and files are with colors.
+<img src=""/>
 
 - non-login shell:
 Running ```ls``` over ssh remotely: ``` ssh melkki.cs.helsinki.fi 'ls'```. The printed directories and files are without color.
